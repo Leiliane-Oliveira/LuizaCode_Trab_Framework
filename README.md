@@ -1,6 +1,12 @@
 # LuizaCode_Trab_Framework
 Repositório para subir o trabalho de framework do LuizaCode
 
+# O programa
+O Luiza Code é um programa de formação em tecnologia, exclusivo para mulheres, criado pelo Magalu. 
+Desde o seu lançamento, até 2022, já foram disponibilizadas cerca de 450 bolsas, em quatro edições do programa.💻💙
+
+Na turma em que participei, foram selecionadas 100 mulheres, que tinham interesse em programação, para receber a aceleração gratuita em Python, durante 6 semanas, com mais de 100 horas de conteúdo,
+
 # Projeto carrinho de compras - Módulo Framework
 
 Nesta etapa, nossa API para o carrinho de compras irá:
